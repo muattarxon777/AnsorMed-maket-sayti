@@ -1,0 +1,194 @@
+button{
+	width: 140px;
+	height: 33px;
+	font-size: 14px;
+	border-radius: 6px;
+	border: none;
+	background: #FF0000;
+	color: white;
+}
+button:hover{
+	color: black;
+	background: white;
+	border: 0.5px solid black;
+	transition: 1s;
+}
+.navbar{
+	width: 1100px;
+	height: 50px;
+	margin: 0 auto;
+}
+.navbar img, .navbar h3, .navbar .havolalar, .navbar button{
+	display: inline-block;
+	line-height: 10px;
+}
+.navbar img{
+	width: 38px;
+}
+.navbar h3{
+	font-family: Calibri;
+	font-size: 23px;
+}
+.navbar .havolalar{
+	width: 570px;
+	margin-left: 150px;
+	height: 50px;
+}
+ .navbar .havolalar a{
+ 	text-decoration: none;
+ 	color: black;
+ 	font-size: 18px;
+ 	font-family: Calibri;
+ 	margin-left: 23px;
+}
+.navbar button{
+	width: 150px;
+	height: 35px;
+	font-size: 14px;
+	border-radius: 6px;
+	border: none;
+	background: #FF0000;
+	color: white;
+}
+.navbar button:hover{
+	color: black;
+	background: white;
+	border: 0.5px solid black;
+	transition: 1s;
+}
+.malumot{
+	margin: 0;
+	padding: 0;
+	height: 450px;
+	background: #00CCCC;
+	color: white;
+	margin-top: 20px;
+}
+.malumot .malumotnoma, .malumot img{
+	display: inline-block;
+}
+.malumot .malumotnoma{
+	width: 500px;
+	height: 420px;
+	margin-left: 150px;
+	padding-top: -2045	px; 
+}
+.malumot .malumotnoma p{
+	width: 300px;
+}
+.malumot .malumotnoma button{
+	margin-top: 50px;
+}
+.malumot img{
+	margin-left: 50px;
+	width: 300px;
+	margin-top: 20px;
+}
+.muolajalar{
+	width: 800px;
+	height: 1040px;
+	margin: 0 auto;
+}
+.muolajalar h2{
+	text-align: center;
+	font-family: Calibri;
+	font-size: 35px;
+}
+.muolajalar .muolaja1{
+	width: 800px;
+	height: 170px;
+	margin-top: 40px;
+}
+.muolajalar .muolaja1 img, .muolajalar .muolaja1 .matncha{
+	display: inline-block;
+}
+.muolajalar .muolaja1 img{
+	width: 180px;
+	border-radius: 30px;
+	box-shadow: 0 0 7px;
+}
+.muolajalar .muolaja1 .matncha{
+	width: 500px;
+	margin-left: 30px;
+	font-family: Calibri;
+}
+.muolajalar .muolaja2{
+	width: 800px;
+	height: 170px;
+	margin-top: 50px;
+}
+.muolajalar .muolaja2 img, .muolajalar .muolaja2 .matncha{
+	display: inline-block;
+}
+.muolajalar .muolaja2 img{
+	width: 180px;
+	border-radius: 30px;
+	box-shadow: 0 0 7px;
+}
+.muolajalar .muolaja2 .matncha{
+	width: 500px;
+	margin-left: 30px;
+	font-family: Calibri;
+}
+.muolajalar button{
+	margin-top: 30px;
+}
+.qabul{
+	width: 1140px;
+	height: 180px;
+	margin: 0 auto;
+	background: #00CCCC;
+	text-align: center;
+}
+.qabul h2{
+	text-align: center;
+	color: white;
+	padding-top: 30px;
+	font-family: Calibri;
+}
+.qabul button{
+	margin-top: -10px;
+	border: 2px solid white;
+	border-radius: 7px;
+	background: #00CCCC;
+}
+.qabul .button2{
+	width: 160px;
+	margin-left: 10px;
+}
+.qabul button:hover{
+	background: white;
+}
+.futer{
+	width: 1140px;
+	height: 60px;
+	margin: 0 auto;
+	background: black;
+	line-height: 30px;
+}
+.futer img, .futer h3, .futer .havolalar{
+	display: inline-block;
+}
+.futer img{
+	width: 40px;
+	border-radius: 50%;
+	margin-left: 80px;
+}
+.futer h3{
+	font-family: Calibri;
+	font-size: 20px;
+	color: white;
+}
+.futer .havolalar{
+	width: 500px;
+	margin-left: 350px;
+	height: 50px;
+	color: white;
+}
+ .futer .havolalar a{
+ 	text-decoration: none;
+ 	color: white;
+ 	font-size: 17px;
+ 	font-family: Calibri;
+ 	margin-left: 23px;
+}
